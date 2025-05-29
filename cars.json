@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "emoji": "🚗",
+      "chance": 10,
+      "value": 1000
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "emoji": "🚙",
+      "chance": 10,
+      "value": 1200
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model 3",
+      "emoji": "🚘",
+      "chance": 100,
+      "value": 5000
+    },
+    {
+      "id": 4,
+      "name": "Ferrari F40",
+      "emoji": "🏎️",
+      "chance": 1000,
+      "value": 25000
+    },
+    {
+      "id": 5,
+      "name": "Bugatti Chiron",
+      "emoji": "🏎️",
+      "chance": 10000,
+      "value": 100000
+    },
+    {
+      "id": 6,
+      "name": "Koenigsegg Jesko",
+      "emoji": "🏎️",
+      "chance": 100000,
+      "value": 500000
+    },
+    {
+      "id": 7,
+      "name": "Mythical Car",
+      "emoji": "🚀",
+      "chance": 1000000,
+      "value": 1000000
+    }
+  ]
+} 
